@@ -1,0 +1,7 @@
+## Desafios de código em Python
+
+Um conjunto de códigos composto por 5 desafios variados do bootcamp em python
+
+# Primeiro desafio:
+Este é um código Python simples que solicita ao usuário o nome de um restaurante e o tempo estimado de entrega em minutos. Em seguida, utiliza a interpolação de strings para formatar uma mensagem de saída informando o nome do restaurante e o tempo estimado de entrega.
+
