@@ -5,3 +5,5 @@ Um conjunto de códigos composto por 5 desafios variados do bootcamp em python
 # Primeiro desafio:
 Este é um código Python simples que solicita ao usuário o nome de um restaurante e o tempo estimado de entrega em minutos. Em seguida, utiliza a interpolação de strings para formatar uma mensagem de saída informando o nome do restaurante e o tempo estimado de entrega.
 
+# Segundo desafio:
+Você está criando um aplicativo de entrega de comida e precisa calcular o preço final do pedido do usuário. O usuário escolheu alguns itens do cardápio e é preciso calcular o preço total do pedido.
